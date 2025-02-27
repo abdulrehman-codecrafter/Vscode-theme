@@ -1,0 +1,22 @@
+{
+  "name": "midnight-fusion",
+  "displayName": "Mid Night Fusion",
+  "icon": "images/icon.png",
+  "description": "A blend of deep dark tones with glowing highlights",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "midnight-fusion",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-fusion-color-theme.json"
+      }
+    ]
+  }
+}
