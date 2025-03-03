@@ -3,6 +3,7 @@
   "displayName": "Mid Night Fusion",
   "icon": "images/icon.png",
   "description": "A blend of deep dark tones with glowing highlights",
+  "publisher": "Abdulrahmansde",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.97.0"
